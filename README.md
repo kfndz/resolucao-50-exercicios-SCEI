@@ -1,2 +1,7 @@
-# resolucao-50-exercicios-SCEI
-repositório referente à resolução dos 50 exercícios da disciplina de Sistemas de Computação e Informação
+# Resolução dos 50 Exercícios
+
+Aluno: Kauã Fernandez Freitas  
+Curso: Ciência da Computação  
+Semestre: 6º semestre  
+
+Este repositório contém a resolução dos 50 exercícios conceituais e práticos.
